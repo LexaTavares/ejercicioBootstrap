@@ -1,0 +1,19 @@
+li{
+  list-style: none;
+}
+.head{
+  font-size:  60px;
+}
+.headMenu{
+  font-size: 30px;
+}
+.jumbotron{
+  text-align: center;
+}
+.jumbotronP{
+  text-align: justify;
+}
+.caption{
+  padding: 5%;
+  text-align: justify;
+}
